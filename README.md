@@ -10,30 +10,6 @@ A simple notes application built using JSP (JavaServer Pages) that allows users 
 - Edit the title and content of existing notes.
 - Basic styling for a visually appealing interface.
 
-## Project Structure
-
-NotesApp/
-│
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com/
-│ │ │ │ ├── notesapp/
-│ │ │ │ │ ├── AddNoteServlet.java
-│ │ │ │ │ ├── DeleteNoteServlet.java
-│ │ │ │ │ ├── EditNoteServlet.java
-│ │ │ │ │ ├── Note.java
-│ ├── webapp/
-│ │ ├── META-INF/
-│ │ ├── WEB-INF/
-│ │ │ ├── web.xml
-│ │ ├── index.jsp
-│ │ ├── notes.jsp
-│ │ ├── styles.css
-│
-├── .gitignore
-├── README.md
-
 
 ## Installation
 
